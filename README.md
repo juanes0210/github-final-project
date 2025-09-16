@@ -9,3 +9,4 @@ Simple Interest = Principal * Rate * Time
 Run the script with:
 ```bash
 ./simple-interest.sh <principal> <rate> <time>
+This repository is used to practice Git CLI commands.
